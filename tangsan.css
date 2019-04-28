@@ -1,0 +1,74 @@
+div {position:absolute;}
+    .div1 {
+        border:solid 3px #000;
+        width:1000px;
+        height:2050px;
+        left:50px;
+        top:50px;
+    }
+    .div2{
+        border:dashed 1px #000;
+        width:900px;
+        height:300px;
+        left:100px;
+        top:100px;
+    }
+    .div3{
+        border:dashed 1px #000;
+        width:900px;
+        height:200px;
+        left:100px;
+        top:450px;
+    }
+    .div4{
+        border:dashed 1px #000;
+        width:900px;
+        height:400px;
+        left:100px;
+        top:700px;
+    }
+     .div5{
+        border:dashed 1px #000;
+        width:900px;
+        height:400px;
+        left:100px;
+        top:1150px;
+    }
+     .div6{
+        border:dashed 1px #000;
+        width:900px;
+        height:200px;
+        left:100px;
+        top:1600px;
+     }
+     .div7{
+        border:dashed 1px #000;
+        width:900px;
+        height:200px;
+        left:100px;
+        top:1850px;
+     }
+span {width:150px;height:50px;position: absolute;text-align:left;float:left;font-size:25px;}
+    .span1{
+        width:250px;
+        height:200px;
+        background-image:url(tangSan1.jpg);
+        left:25px;
+        top:50px;
+    }
+    .span2{left:300px;top:50px;}
+    .span3{left:460px;top:50px;width:200px;}
+    .span4{left:670px;top:50px;}
+    .span5{left:300px;top:120px;}
+    .span6{left:460px;top:120px;}
+    .span7{left:670px;top:120px;}
+    .span8{left:300px;top:190px;width:200px;}
+    .span9{left:510px;top:190px;width:350px;}
+    .span10{background-color:#8eedf4;border-bottom:dashed 1px #000;border-right:dashed 1px #000;left:0px;top:0px;width:100px;height:35px;}
+    .span12{left:50px;top:50px;width:800px;height:100px;}
+    .span14{left:50px;top:50px;width:800px;height:300px;}
+    .span15{left:50px;top:50px;width:800px;height:100px;}
+p{}
+    .normal{font-style:normal;font-family:"Microsoft Yahei",Georgia,Serif;}
+    .italic{font-style:italic;}
+    .oblique {font-style:oblique;}
